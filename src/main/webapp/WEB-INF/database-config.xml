@@ -13,7 +13,7 @@
 		<property name="url"
 			value="jdbc:mysql://localhost:3306/customer_db_local"></property>
 		<property name="username" value="root"></property>
-		<property name="password" value="rootroot"></property>
+		<property name="password" value="Dhikure1159"></property>
 	</bean>
 
 	<bean
